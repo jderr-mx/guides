@@ -41,6 +41,12 @@ Ember requires Git to manage many of its dependencies. Git comes with Mac OS
 X and most Linux distributions. Windows users can
 download and run [this Git installer](http://git-scm.com/download/win).
 
+### Bower
+
+Ember requires Bower to manage additional dependencies.
+Bower is a command line utility that you install with npm.
+To install Bower run, ```npm install -g bower```
+
 ### Watchman (optional)
 
 On Mac and Linux, you can improve file watching performance by installing [Watchman](https://facebook.github.io/watchman/docs/install.html).
