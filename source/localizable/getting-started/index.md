@@ -11,6 +11,12 @@ This tool provides:
 
 ## Dependencies
 
+### Git
+
+Ember requires Git to manage many of its dependencies. Git comes with Mac OS
+X and most Linux distributions. Windows users can
+download and run [this Git installer](http://git-scm.com/download/win).
+
 ### Node.js and npm
 
 Ember CLI is built with JavaScript, and expects the [Node.js](https://nodejs.org/)
@@ -34,12 +40,6 @@ installing Homebrew, run `brew install node` to install Node.js.
 * Linux users can use [this guide for Node.js installation on Linux](https://github.com/joyent/node/wiki/Installing-Node.js-via-package-manager).
 
 If you get an outdated version of npm, run `npm install -g npm`.
-
-### Git
-
-Ember requires Git to manage many of its dependencies. Git comes with Mac OS
-X and most Linux distributions. Windows users can
-download and run [this Git installer](http://git-scm.com/download/win).
 
 ### Bower
 
